@@ -5,7 +5,7 @@ plugins {
     kotlin("plugin.spring") version "1.7.10"
     id("org.springframework.boot") version "3.0.3"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
-    id("org.jlleitschuh.gradle.ktlint-idea") version "11.0.0"
+    id("org.jlleitschuh.gradle.ktlint-idea") version "11.3.2"
 }
 
 apply(plugin = "org.jlleitschuh.gradle.ktlint")
